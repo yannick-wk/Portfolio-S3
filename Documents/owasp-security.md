@@ -60,15 +60,20 @@ It is also important to regularly monitor access to systems and applications, an
 ## 4. Broken Access Control Sub topics
 ### 1. The risks and consequences of broken access control
 Broken access control can lead to serious security breaches and can have significant consequences for individuals and organizations. It can result in the loss of sensitive information, financial losses, and damage to a company's reputation. To prevent broken access control, it is important to implement strong security protocols and to regularly monitor and maintain access control measures.
+[Source](https://owasp.org/www-community/Broken_Access_Control)
 
 ### 2. How brute force attacks can be used to break access control
 A brute force attack is a method used by hackers to gain unauthorized access to a system, network, or application by trying a large number of possible passwords or other authentication credentials. This can be a time-consuming process, but it is effective because many people use weak passwords that can be easily guessed. To prevent brute force attacks from breaking access control, it is important to use long and complex passwords and to implement other security measures, such as two-factor authentication.
+[Source](https://owasp.org/www-community/controls/Blocking_Brute_Force_Attacks)
 
 ### 3. The role of vulnerability exploitation in breaking access control
 Vulnerability exploitation is a common method used by hackers to gain unauthorized access to a system, network, or application. Hackers can use known vulnerabilities in a system or application to gain access to sensitive information or to take control of the system. To prevent this from happening, it is important for companies and organizations to regularly update their systems and applications to fix any known vulnerabilities. This can help to prevent access control from being broken through vulnerability exploitation.
+[Source](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
 
 ### 4. Best practices for implementing strong access control measures
 To prevent access control from being broken, it is important to implement strong security protocols and to use robust authentication methods. This can include the use of long and complex passwords, as well as two-factor authentication, which requires users to provide additional information, such as a code sent to their phone, in order to access the system. It is also important to regularly monitor access to systems and applications, and to promptly investigate and address any suspicious activity. By following these best practices, companies and organizations can protect themselves from the potential damage caused by broken access control.
+[Source](https://owasp.org/www-community/Access_Control)
 
 ### 5. The importance of regular monitoring and maintenance for preventing broken access control.
 Regular monitoring and maintenance of access control measures is important for preventing them from being broken. By regularly checking for and addressing any potential vulnerabilities, companies and organizations can ensure that their access control measures remain effective. This can help to prevent security breaches and protect sensitive information. Additionally, prompt investigation and response to any suspicious activity can help to prevent access control from being broken and can minimize the potential damage caused by a breach.
+[Source](https://owasp.org/www-community/Broken_Access_Control)
