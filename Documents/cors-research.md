@@ -11,7 +11,7 @@
 - [References](#references)
 
 ## Intro
-In semester 3 we're tasked with developing a web application. To keep the project loosely coupled and scalable, the project is made with the microservices architecture in mind. Due to this, each service will send a request from their own origin, which causes cross origin requests to happen. As an application should only allow access to specific services, this research will focus on how to implement CORS within the Shazzboard project.
+In semester 3 we're tasked with developing a web application. To keep the project loosely coupled and scalable, the project is made with the microservices architecture in mind. Due to this, each service will send a request from their own origin, which causes cross origin requests to happen. As an application should only allow access to specific services, this research will focus on how to implement CORS within the Happilly project.
 
 ## What is CORS?
 Cross-Origin Resource Sharing (CORS) is a way for a server to allow web browsers to access resources from a domain other than the one the browser is currently on. It does this by using HTTP headers and a "preflight" request to check that the server hosting the cross-origin resource will allow the actual request to be made. The preflight request includes information about the HTTP method and headers that will be used in the actual request. This helps ensure that resources are only accessed from approved domains and that the server is aware of and okay with the request. For security reasons, browsers restrict cross-origin HTTP requests initiated from scripts.<sup>[[1]](#cors-mozilla)</sup>
