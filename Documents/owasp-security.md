@@ -77,3 +77,14 @@ To prevent access control from being broken, it is important to implement strong
 ### 5. The importance of regular monitoring and maintenance for preventing broken access control.
 Regular monitoring and maintenance of access control measures is important for preventing them from being broken. By regularly checking for and addressing any potential vulnerabilities, companies and organizations can ensure that their access control measures remain effective. This can help to prevent security breaches and protect sensitive information. Additionally, prompt investigation and response to any suspicious activity can help to prevent access control from being broken and can minimize the potential damage caused by a breach.
 [Source](https://owasp.org/www-community/Broken_Access_Control)
+
+## DOT Framework matrix
+| Research part | Library | Field | Lab | Showroom | Workshop |
+|:------------|:---|:---|:---|:---|:---:|
+| What is OWASP? | x | | | | |
+| How does OWASP work? | x | | | | |
+| When do I need OWASP | x | | | | |
+| What are the dangers of not using OWASP? | x | | | | |
+| How to use OWASP? | x | | | | |
+| Proof of concept | | | | | x |
+| Research: How to implement OWASP in the Happilly project? | | | | x | |
