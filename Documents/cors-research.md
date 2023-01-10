@@ -35,7 +35,7 @@ While enabling CORS on a service is better than not using it, there are still pr
 - Setting up a dynamic `Access-Control-Allow-Origin` with improper server-side validation. If set up improperly within a domain, this can lead to opening backdoors to unwanted visitors and requests.<sup>[[5]](#cors-vuln-tenable)</sup>
 
 ## How to use CORS in APIs?
-
+CORS is used in the Happilly API but it does not pose any security issues because its in a closed docker environment.
 
 
 
