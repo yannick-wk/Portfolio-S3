@@ -1,4 +1,4 @@
-## Agile method
+# Agile method
 
 ## Table of content
 - [Intro](#intro)
@@ -50,7 +50,7 @@ These are the top 5 methods I found for Agile:
  5. Crystal
  
 ## Pros and Cons of the methods
-# SCRUM
+### SCRUM
 
 Pros:
 + The scrum method promotes team motivation as the programmers are motivated to meet the deadlines for each sprint.
@@ -64,7 +64,7 @@ Cons:
 + The segmented nature of the scrum method and focus on agile development can lead to a lack of overall project perspective.
 + The scrum method may not clearly define developer roles, leading to confusion among team members.
 
-# Kanban
+### Kanban
 
 Pros:
 + Allows for visualization of all tasks related to a single project using simple "cards" that can be sorted into categories such as completed, in progress, or in testing.
@@ -77,7 +77,7 @@ Cons:
 + The information shown on the Kanban board can be misinterpreted by team members, particularly if it is not kept up-to-date.
 + Since there are no timeframes in Kanban, delays may occur at various stages, causing time-related issues.
 
-# Extreme Programming (XP)
+### Extreme Programming (XP)
 
 Pros:
 + The simplicity of the written code is a benefit as it allows for easy modification and maintenance in the future.
@@ -91,7 +91,7 @@ Cons:
 + May not be as effective if team members are not co-located.
 + Error tracking is not always a focus in XP projects, which can lead to recurring bugs in the future.
 
-# Lean Development
+### Lean Development
 
 Pros:
 + Allows the team to eliminate unnecessary activities, resulting in time and cost savings.
@@ -104,7 +104,7 @@ Cons:
 + Can result in losing focus as multiple tasks are divided into smaller elements.
 + Requires documentation, particularly on the characteristics of the business, to avoid errors and ensure proper development.
 
-# Crystal
+### Crystal
 
 Pros:
 + Crystal methodology emphasizes frequent deliveries, which allows for early identification and resolution of issues at various stages of development.
