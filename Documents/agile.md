@@ -34,12 +34,12 @@ There are 12 principles support those values:
   12. Regularly, the team reflects on how to become more effective and adjusts accordingly
 
 
-  [^1]: [bron: jigsaw](https://www.jigsawacademy.com/blogs/product-management/types-of-agile-methodology/#:~:text=The%20agile%20method%20is%20an,thereby%20encouraging%20flexibility%20to%20changes.) </br>
-  [^2]: [bron: wikipedia agile](https://en.wikipedia.org/wiki/Agile_software_development) </br> 
+  [^1]: [source: jigsaw](https://www.jigsawacademy.com/blogs/product-management/types-of-agile-methodology/#:~:text=The%20agile%20method%20is%20an,thereby%20encouraging%20flexibility%20to%20changes.) </br>
+  [^2]: [source: wikipedia agile](https://en.wikipedia.org/wiki/Agile_software_development) </br> 
 
   <!-- image -->
   ![alt text](https://targettrend.com/wp-content/uploads/2021/03/Agile-Methodology-1.png) [^3]
- [^3]: [bron: agile methodology picture](https://targettrend.com/agile-methodology-meaning-advantages-disadvantages-more/)
+ [^3]: [source: agile methodology picture](https://targettrend.com/agile-methodology-meaning-advantages-disadvantages-more/)
 
 ## What Agile methods are there?
 These are the top 5 methods I found for Agile:
@@ -118,7 +118,7 @@ Cons:
 + Planning and development are not based on requirements, which may not be suitable for some projects.
 + It's more suited for experienced and autonomous teams. [^4]
 
-[^4]: [bron: jigsaw](https://www.xpand-it.com/blog/top-5-agile-methodologies/) </br>
+[^4]: [source: xpand-it](https://www.xpand-it.com/blog/top-5-agile-methodologies/) </br>
 
 ## What I chose and why
 The method I have chosen for both individual and group projects is SCRUM. I chose SCRUM because I am already familiar with the method and have used it successfully in the past. It has always been an effective way to implement agile methodology in my projects. I did consider other methods, but ultimately found that SCRUM best suited my needs. The primary advantage of SCRUM is the ability to work in sprints and observe progress throughout the project. Setting realistic goals and achieving them each sprint, as well as the transparency that allows all team members to see the work of others, are major benefits of the method. Additionally, SCRUM allows for the flexibility to re-prioritize items within the project, allowing for adjustments to the project's focus as needed.
