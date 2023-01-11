@@ -19,17 +19,17 @@ As previously mentioned, I conducted an online survey to assess the usability of
 After exploring the application, participants were then asked specific questions about their user experience. I wanted to know their overall impression of the website, if they encountered anything unclear and what changes or additions they would suggest. I also asked more targeted questions about certain features and components of the application to gain more detailed feedback.
 
 ### Close the sidemenu
-![Close sidemenu](Documents/resources/close-sidemenu.png)
+![Close sidemenu](resources/close-sidemenu.png)
 
 When the user clicked on the hamburger icon, it would close the sidebar. I found this useful for mobile use so that it doesnt clutter the screen. I didnt know if this was on obvious feature but when i asked the testers they all knew how to do it.
 
 ### Go to create reminder page
-![Go to create reminder page](Documents/resources/create-reminderpage.png)
+![Go to create reminder page](resources/create-reminderpage.png)
 
 The second component to test was going to the create reminder page. By clicking on the + button on the left side of the page you were able to go there. A few users had trouble going there because the button wasnt big/clear enough to see. So I noted that down and changed it afterwards.
 
 ### Go back to reminder/home page from any other page
-![Go back to reminder/home page](Documents/resources/return-reminderpage.png)
+![Go back to reminder/home page](resources/return-reminderpage.png)
 
 The last component I let them test was to go back to the reminder/home page. Many of the testers tried clicking on the Happilly logo on the top left but it didnt work. So the next thing those people did was clicking on the sidebar "Reminders" tab to go back. After they finished the test I asked them what needed to be added/changed and 5 out of 6 people said that the logo should be clickable to bring you back to the Reminder/Home page.
 
