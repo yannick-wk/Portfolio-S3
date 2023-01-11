@@ -35,7 +35,17 @@ While enabling CORS on a service is better than not using it, there are still pr
 - Setting up a dynamic `Access-Control-Allow-Origin` with improper server-side validation. If set up improperly within a domain, this can lead to opening backdoors to unwanted visitors and requests.<sup>[[5]](#cors-vuln-tenable)</sup>
 
 ## How to use CORS in APIs?
-CORS is used in the Happilly API but it does not pose any security issues because its in a closed docker environment.
+Here's an example of how to use CORS in an API:
+
+On the server side, you need to configure your API to return the Access-Control-Allow-Origin header in the response. The value of this header should be set to the domain(s) that should be allowed to make requests to the API. For example, to allow requests from any domain, you can set the header value to *.
+
+Make sure that your API is set up to handle OPTIONS requests. These requests are automatically sent by the browser before making an actual GET or POST request, to check if the API allows CORS requests. Your API should return a 204 No Content status code and the Access-Control-Allow-Origin header in the response.
+
+On the client side, you can use the fetch API or any other
+
+## Conclusion
+CORS is used in the Happilly API but it does not pose any security issues because its in a closed docker environment. I have learned what CORS is, what it does and it works and how to apply it in an API. In the screenshot below you can see the security hotspot I got before when running my code through sonar cloud. Using Sonar Cloud also gave me another source of knowing what the problem exactly was and how to fix it as seen in the tabs highlighted.
+![Cors sonarcloud](resources/cors-sonarcloud.png)
 
 
 
@@ -49,15 +59,3 @@ CORS is used in the Happilly API but it does not pose any security issues becaus
 > [4] <a name="cors-stackhawk"/> _What is CORS?_ (n.d.). StackHawk. https://www.stackhawk.com/blog/what-is-cors/
 
 > [5] <a name="cors-vuln-tenable"/> _Understanding Cross-Origin Resource Sharing Vulnerabilities_. (2020, September 11). Tenable®. https://www.tenable.com/blog/understanding-cross-origin-resource-sharing-vulnerabilities
-
-
-## DOT Framework matrix
-| Research part | Library | Field | Lab | Showroom | Workshop |
-|:------------|:---|:---|:---|:---|:---:|
-| What is CORS? | x | | | | |
-| How do resource requests work? | x | | | | |
-| How does CORS work? | x | | | | |
-| What are the dangers surrounding CORS? | x | | | | |
-| How to use CORS in APIs? | x | | | | |
-| Proof of concept | | | | | x |
-| Research: How to implement CORS in the Happilly project? | | | | x | |
