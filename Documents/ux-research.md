@@ -2,10 +2,10 @@
 
 ## Table of content
 - [Intro](#intro)
-- [What is Agile](#what-is-agile)
-- [What Agile methods are there?](#what-agile-methods-are-there?)
-- [Pros and Cons of the methods](#pros-and-cons-of-the-methods)
-- [What I chose and why](#what-i-chose-and-why)
+- [Who tested my application?](#who-tested-my-application?)
+- [What did I test?](#what-did-i-test?)
+- [Testing results](#testing-results)
+- [Conclusion](#conclusion)
 
 ## Intro 
 I have researched User Experience (UX) because of its crucial role in website design. If a site is slow, confusing, or broken, users will quickly leave, which is why I conducted a UX survey to gather feedback on the usability of the site. My goal was to ensure that the users can navigate the site easily and understand the purpose of each feature. Additionally, throughout the development of the site, I received feedback from test users about issues with certain UI elements, but I had not fully documented these issues. The survey is also intended to gather more specific feedback on which elements of the UI users had difficulty with and how they could be improved.
