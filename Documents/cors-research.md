@@ -1,4 +1,4 @@
-# How to implement CORS in Happilly?
+# CORS
 
 ## Table of content
 - [Intro](#intro)
