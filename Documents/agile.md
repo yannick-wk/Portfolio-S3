@@ -122,3 +122,5 @@ Cons:
 
 ## What I chose and why
 The method I have chosen for both individual and group projects is SCRUM. I chose SCRUM because I am already familiar with the method and have used it successfully in the past. It has always been an effective way to implement agile methodology in my projects. I did consider other methods, but ultimately found that SCRUM best suited my needs. The primary advantage of SCRUM is the ability to work in sprints and observe progress throughout the project. Setting realistic goals and achieving them each sprint, as well as the transparency that allows all team members to see the work of others, are major benefits of the method. Additionally, SCRUM allows for the flexibility to re-prioritize items within the project, allowing for adjustments to the project's focus as needed.
+
+![Happilly Project board for SCRUM](resources/happilly-github-projectboard.png)
