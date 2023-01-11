@@ -45,6 +45,7 @@ On the client side, you can use the fetch API or any other
 
 ## Conclusion
 CORS is used in the Happilly API but it does not pose any security issues because its in a closed docker environment. I have learned what CORS is, what it does and it works and how to apply it in an API. In the screenshot below you can see the security hotspot I got before when running my code through sonar cloud. Using Sonar Cloud also gave me another source of knowing what the problem exactly was and how to fix it as seen in the tabs highlighted.
+
 ![Cors sonarcloud](resources/cors-sonarcloud.png)
 
 
