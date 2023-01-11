@@ -1,0 +1,2 @@
+# Professional
+Throughout the semester, I have had several feedback sessions with Hans regarding the progress of my application and my learning outcomes. I recorded the details of these conversations using feedpulse. Additionally, I have presented our sprint deliveries to World of Content / Hans (for Happilly), (or other relevant group) and consistently sought feedback from the product owners, and then incorporated that feedback into our/my product.
