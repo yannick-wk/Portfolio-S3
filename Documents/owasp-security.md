@@ -2,8 +2,10 @@
 ## Table of contents
 - [1. What is OWASP](#1-what-is-owasp)
 - [2. What is the OWASP Top 10](#2-what-is-the-owasp-top-10)
-- [3. Broken Access Control](#3-broken-access-control)
-- [4. Sub topics about Broken Access Control](#4-broken-access-control-sub-topics)
+- [3. Why use OWASP Top 10?](#3-why-use-owasp-top-10?)
+- [4. Broken Access Control](#4-broken-access-control)
+- [5. Sub topics about Broken Access Control](#4-broken-access-control-sub-topics)
+- [6. Broken Access Control in my own project](#6-broken-access-control-in-my-own-project)
 
 ## 1. What is OWASP
 OWASP, or the Open Web Application Security Project, is a nonprofit organization that focuses on improving the security of software. It provides resources like the OWASP Top 10, a list of common web application security vulnerabilities, and local chapters for security professionals to connect and share knowledge. It is a valuable resource for developers, security professionals, and organizations looking to secure their web applications.
