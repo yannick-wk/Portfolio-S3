@@ -1,4 +1,4 @@
-# Security research
+# OWASP Security
 ## Table of contents
 - [1. What is OWASP](#1-what-is-owasp)
 - [2. What is the OWASP Top 10](#2-what-is-the-owasp-top-10)
@@ -43,7 +43,10 @@ Server-side Request Forgery (SSRF) is a web application vulnerability that allow
 
 [Source](https://owasp.org/www-project-top-ten/)
 
-## 3. Broken Access Control
+## 3. Why use OWASP Top 10?
+The OWASP Top 10 is a significant resource for organizations as it provides a prioritized list of risks to focus on and helps organizations identify, understand, mitigate, and address vulnerabilities in their technology. The risks are ranked according to factors such as their prevalence, detectability, potential impact, and exploitability, allowing organizations to make informed decisions about where to allocate resources.
+
+## 4. Broken Access Control
 Access control is a security measure that controls who has access to a system, network, or application. It is an important aspect of computer security and is used to prevent unauthorized access to sensitive information.
 
 However, access control can be broken, which can lead to serious security breaches. This can happen for a variety of reasons, such as poor implementation, weak passwords, or lack of proper security protocols.
@@ -57,7 +60,7 @@ In order to prevent access control from being broken, it is important to impleme
 It is also important to regularly monitor access to systems and applications, and to promptly investigate and address any suspicious activity. By taking these steps, companies and organizations can protect themselves from the potential damage caused by broken access control.
 [Source](https://medium.com/purplebox/broken-access-control-f82235ddf888) 
 
-## 4. Broken Access Control Sub topics
+## 5. Broken Access Control Sub topics
 ### 1. The risks and consequences of broken access control
 Broken access control can lead to serious security breaches and can have significant consequences for individuals and organizations. It can result in the loss of sensitive information, financial losses, and damage to a company's reputation. To prevent broken access control, it is important to implement strong security protocols and to regularly monitor and maintain access control measures.
 [Source](https://owasp.org/www-community/Broken_Access_Control)
@@ -78,13 +81,5 @@ To prevent access control from being broken, it is important to implement strong
 Regular monitoring and maintenance of access control measures is important for preventing them from being broken. By regularly checking for and addressing any potential vulnerabilities, companies and organizations can ensure that their access control measures remain effective. This can help to prevent security breaches and protect sensitive information. Additionally, prompt investigation and response to any suspicious activity can help to prevent access control from being broken and can minimize the potential damage caused by a breach.
 [Source](https://owasp.org/www-community/Broken_Access_Control)
 
-## DOT Framework matrix
-| Research part | Library | Field | Lab | Showroom | Workshop |
-|:------------|:---|:---|:---|:---|:---:|
-| What is OWASP? | x | | | | |
-| How does OWASP work? | x | | | | |
-| When do I need OWASP | x | | | | |
-| What are the dangers of not using OWASP? | x | | | | |
-| How to use OWASP? | x | | | | |
-| Proof of concept | | | | | x |
-| Research: How to implement OWASP in the Happilly project? | | | | x | |
+## 6. Broken Access Control in my own project
+Access control is most effective when implemented on trusted server-side code or server-less API to prevent attackers from modifying the access control check or metadata. It should be implemented by denying access by default, except for public resources. Re-use the access control mechanisms throughout the application and minimize CORS usage. Access controls should enforce record ownership, and unique business limit requirements should be enforced by domain models. It's important to disable web server directory listing, and ensure that file metadata and backup files are not present within web roots. I wrote more about the CORS topic about what it is and how I tackled it in my own project [here](cors-research.md).
