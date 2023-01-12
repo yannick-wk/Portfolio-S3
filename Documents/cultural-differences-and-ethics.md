@@ -2,10 +2,14 @@
 
 ## Table of content
 - [Cultural differences in software development](#cultural-differences-in-software-development)
+- [My own take on orgisational culture](#my-own-take-on-orgisational-culture)
 - [Ethics in software development](#ethics-in-software-development)
 
 ## Cultural differences in software development
 As IT becomes increasingly globalized, it is likely that software teams will have members with diverse cultural backgrounds. These cultural differences can significantly impact the effectiveness of the team. Each culture has its own unique norms, language, religion, and other characteristics that may influence work attitudes, needs, and preferences. To work effectively as a team, it is important to consider and accommodate these cultural differences.
+
+## My own take on orgisational culture
+I believe that culture plays a crucial role in shaping how we behave and interact with our peers in the workplace, which in turn affects the quality of our work and our overall enjoyment and motivation. Since we spend a significant amount of our time working, it's essential to focus on creating a positive culture that fosters a pleasant work environment. This can lead to an improvement in the quality of the work produced. Culture can be thought of as an unwritten rule or code that defines the atmosphere, environment and overall mindset of a business on a day-to-day basis.
 
 ## Ethics in software development
 Software development is ongoing and used by people around the globe. While most software aims to be helpful and useful to users, it is possible that some software may have negative consequences or violate users' privacy. To address these potential risks, the Association for Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE) have developed codes of ethics to guide responsible software development and use.
@@ -26,6 +30,9 @@ Software development is ongoing and used by people around the globe. While most 
 > - **Ensure adequate testing, debugging and review of software.** Programmers should perform the appropriate tests to the pieces of software they work with, and should check for errors and system security holes to make sure that the programs are well implemented.
 > - **Not engage in deceptive financial practices such as bribery, double billing, or other improper financial practices.** Programmers are exposed to be participants in illegal activities to get money. They get involved in them due to threats, economic issues, or simply because they want to obtain easy money by taking advantage of their knowledge about how computer systems work. This guideline prohibits programmer involvement in such unlawful actions.
 > - **Improve their ability to create safe, reliable, and useful quality software.** Since technology advances faster year by year, and so does virtual criminality, the need of well-structured and designed programs is increasing. Computer systems get old and limited by new ones and new devices. Programmers should “further their knowledge of developments in the analysis, specification, design, development, maintenance, and testing software and related documents” (Software Engineering Code of Ethics and Professional Practice) in order to create better pieces of software.<sup>[[1]](#wiki-ethics)</sup>
+
+## My own take on software ethics
+From the research I've done and experience in other software, I learned that software ethics is an important aspect of the technology industry, and it is crucial that we consider the ethical implications of the technologies we create and use. It is necessary to ensure that personal data is collected and stored responsibly and ethically, protecting against data breaches and being transparent about data use. It's also important to ensure that algorithms and AI are not perpetuating or amplifying existing biases and discrimination, being aware of potential bias in data sets and being transparent about the decisions being made by these technologies. Additionally, it's important to consider the potential impact of the technology on different communities and use technology in a way that is socially responsible and beneficial to society as a whole. Software ethics is a complex and ongoing issue that requires attention and consideration.
 
 ## References
 >[1] <a name="wiki-ethics"></a> Wikipedia contributors. (2022, November 22). _Programming ethics_. Wikipedia. https://en.wikipedia.org/wiki/Programming_ethics
