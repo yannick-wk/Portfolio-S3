@@ -49,4 +49,4 @@ By conducting appropriate research and creating a business process based on a fe
 ### Professional
 ###### You act in a professional manner during software development and learning
 
-By effectively communicating with stakeholders/coaches to understand their needs, collaborating with team members in a professional manner, and keeping stakeholders/coaches informed of progress through sprints, such as sprint planning , I would rate my proficiency in this learning outcome as proficient. You can view the communication between the stakeholder/coaches and I in FeedPulse.
+Throughout the semester, I have had several feedback sessions with Hans regarding the progress of my application and my learning outcomes. I recorded the details of these conversations using feedpulse. Additionally, I have presented our sprint deliveries to World of Content / Hans (for Happilly), (or other relevant group) and consistently sought feedback from the product owners, and then incorporated that feedback into our/my product. I would rate my proficiency in this learning outcome as proficient. You can view the communication between the stakeholder/coaches and I in FeedPulse.
