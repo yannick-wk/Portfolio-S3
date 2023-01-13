@@ -52,3 +52,25 @@ The requirements have been put together by using the MoSCoW method which can be 
 | Q10 | Maintainability    | The source code is written according to the Microsoft code conventions2 for C# and the Java Code Conventions3. |
 | Q11 | Maintainability    | Source code is documented.                                                                                     |
 | Q12 | Maintainability    | At least 80% of the source code is covered by tests.                                                           |
+
+## Architecture
+
+### C1 System context 
+![C4 Model](resources/C1.png)
+
+The figure above shows the System Context Diagram. It shows the context of the software. The system
+being built is shown as a Process, a user of the system is shown as an Entity and the storage system is
+shown as a DataStore.
+
+### C2 Containers and chosen technologies
+![C4 Model](resources/C2.png)
+
+The figure above shows the Container Diagram. In this diagram 3 different containers are involved with
+the distributed reminder platform. The communication between the Backend and the Database uses a
+RESTful API. The communication between the Frontend and the Backend uses HTTP/JSON.
+
+### C3 Components
+![C4 Model](resources/C3.png)
+
+The figure above shows the Component Diagram. In this diagram it can be observed that Happilly has backend controllers that use services to
+communicate to each component and the Database to store or fetch data.
