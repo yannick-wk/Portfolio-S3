@@ -8,7 +8,11 @@
 - [Conclusion](#conclusion)
 
 ## Intro 
-I have researched User Experience (UX) because of its crucial role in website design. If a site is slow, confusing, or broken, users will quickly leave, which is why I conducted a UX survey to gather feedback on the usability of the site. My goal was to ensure that the users can navigate the site easily and understand the purpose of each feature. Additionally, throughout the development of the site, I received feedback from test users about issues with certain UI elements, but I had not fully documented these issues. The survey is also intended to gather more specific feedback on which elements of the UI users had difficulty with and how they could be improved.
+I have researched User Experience (UX) because of its crucial role in website design. If a site is slow, confusing, or broken, users will quickly leave, which is why I conducted a UX survey to gather feedback on the usability of the site. My goal was to ensure that the users can navigate the site easily and understand the purpose of each feature. Additionally, throughout the development of the site, I received feedback from test users about issues with certain UI elements, but I had not fully documented these issues. The survey is also intended to gather more specific feedback on which elements of the UI users had difficulty with and how they could be improved. Below are some of the first designs of Happilly and the current designs.
+
+![Happilly temp designs](resources/happilly-design.png)
+![Happilly real designs](resources/happilly-design-real.png)
+![Happilly real designs](resources/happilly-design-real1.png)
 
 ## Who tested my application?
 I conducted the usability tests on two groups of users: my family/relatives (3) and friends who are studying ICT / know what my app is (3). I chose to test with my family/friends because they have no prior knowledge of the application and may provide a fresh perspective on the usability of the site. They may identify issues that users who are already familiar with the application might overlook. By testing with a diverse group of users, I was able to gain a more comprehensive understanding of the usability of my application.

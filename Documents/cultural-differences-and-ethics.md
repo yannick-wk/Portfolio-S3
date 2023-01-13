@@ -34,5 +34,15 @@ Software development is ongoing and used by people around the globe. While most 
 ## My own take on software ethics
 From the research I've done and experience in other software, I learned that software ethics is an important aspect of the technology industry, and it is crucial that we consider the ethical implications of the technologies we create and use. It is necessary to ensure that personal data is collected and stored responsibly and ethically, protecting against data breaches and being transparent about data use. It's also important to ensure that algorithms and AI are not perpetuating or amplifying existing biases and discrimination, being aware of potential bias in data sets and being transparent about the decisions being made by these technologies. Additionally, it's important to consider the potential impact of the technology on different communities and use technology in a way that is socially responsible and beneficial to society as a whole. Software ethics is a complex and ongoing issue that requires attention and consideration.
 
+For the workshop Cultural differences and Ethics we had to prepare a test results of what kind of Team Role you have and what kind of thinking "Color" you have in an orginazation. Here are the results: 
+
+![Culture and Ethics](resources/culture-ethics.png)
+![Culture and Ethics](resources/culture-ethics2.png)
+![Culture and Ethics](resources/culture-ethics3.png)
+![Culture and Ethics](resources/culture-ethics4.png)
+
+I also discussed these results with my group project members and it was interesting to see that we 2 of us had the same and the other 2 as well. We compared the results afterwards and could really tell that those are correct and fit to the person in the way they work in projects/companies etc.
+
+
 ## References
 >[1] <a name="wiki-ethics"></a> Wikipedia contributors. (2022, November 22). _Programming ethics_. Wikipedia. https://en.wikipedia.org/wiki/Programming_ethics
