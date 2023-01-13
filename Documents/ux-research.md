@@ -12,7 +12,7 @@ I have researched User Experience (UX) because of its crucial role in website de
 
 ![Happilly temp designs](resources/happilly-design.png)
 ![Happilly real designs](resources/happilly-design-real.png)
-![Happilly real designs](resources/happilly-design-real1.png)
+![Happilly real designs](resources/happilly-design-real2.png)
 
 ## Who tested my application?
 I conducted the usability tests on two groups of users: my family/relatives (3) and friends who are studying ICT / know what my app is (3). I chose to test with my family/friends because they have no prior knowledge of the application and may provide a fresh perspective on the usability of the site. They may identify issues that users who are already familiar with the application might overlook. By testing with a diverse group of users, I was able to gain a more comprehensive understanding of the usability of my application.
