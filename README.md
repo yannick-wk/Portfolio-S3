@@ -93,7 +93,7 @@ Next time I want to atleast do some pre-research so that I atleast have some bas
 ### Requirements and design
 ###### You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques
 
-By establishing a range of functional and non-functional requirements, creating user stories, and conducting research on the design approach for my project, I believe that I have demonstrated proficiency in this learning outcome. The design research document can be found [here](Documents/ux-research.md). And the Analysis document can be found [here](Documents/happilly-analysis.md) with requirements.
+By establishing a range of functional and non-functional requirements, creating user stories, and conducting research on the design approach for my project with an architectural model (C3), I believe that I have demonstrated proficiency in this learning outcome. The design research document can be found [here](Documents/ux-research.md). And the Analysis document can be found [here](Documents/happilly-analysis.md) with requirements, quality attributes and C3.
 
 #### What went well?
 I did a UX research with tests on 2 groups of users and got useful results that I later applied to my project.
