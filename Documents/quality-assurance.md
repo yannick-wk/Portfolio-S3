@@ -97,6 +97,7 @@ Here are some screenshots of what the load test looks like and the results it go
 
 ## Cypress
 I used Cypress to test the application from front to back-end by making an E2E (End to End) tests, in the images below you can see the two tests that were made.
+
 ![Cypress](resources/cypress-specs.png)
 ![Cypress](resources/cypress-test-complete.png)
 ![Cypress](resources/cypress-test-complete2.png)
