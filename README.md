@@ -5,7 +5,7 @@ This repository will be dedicated as my portfolio for S3 FHICT. The format of th
 For an overview of all learning outcomes for this semester, click [here](Documents/learning-outcomes.md).
 
 ## Individual project
-My project is a Medicine Reminder application where the user can set reminders for their medicine intake. The project with all the repos and other files can be found in [the Front-end Github](https://github.com/yannick-wk/Happilly-Frontend) and [on the Back-end GitHub](https://github.com/yannick-wk/Happilly-Backend).
+My project called Happilly, it's a Medicine Reminder application where the user can set reminders for their medicine intake. The project with all the repos and other files can be found in [the Front-end Github](https://github.com/yannick-wk/Happilly-Frontend) and [on the Back-end GitHub](https://github.com/yannick-wk/Happilly-Backend).
 
 ## Group project
 In this semester we're also tasked with working on a project within a group. The repository for this project can be found [here (Frontend)](https://github.com/JSchuurmans03/WoC-Frontend) and [here (Backend)](https://github.com/JSchuurmans03/WoC-Backend).
